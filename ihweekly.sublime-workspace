@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comme",
+				"comment_to_push"
+			],
+			[
+				"char",
+				"chargepoint"
+			],
+			[
+				"is",
+				"is_admin_comment"
+			],
+			[
+				"show",
+				"showAdminComments"
+			],
+			[
+				"showA",
+				"showAllComments"
+			],
+			[
+				"_",
+				"_fbCloud_"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"cp",
+				"cp_comments"
+			],
+			[
+				"sub",
+				"submitComment"
+			],
+			[
+				"new",
+				"newCommentModal"
+			],
+			[
+				"add",
+				"addComment"
+			],
+			[
+				"fb",
+				"fbCloud"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"charge",
+				"chargepoint"
+			],
+			[
+				"def",
+				"deferredSuccess"
+			],
+			[
+				"cre",
+				"createUser"
+			],
+			[
+				"geo",
+				"geofireHanlders"
+			],
+			[
+				"map",
+				"mapGetCenter"
+			],
+			[
+				"set",
+				"setCenter"
+			],
+			[
+				"gf",
+				"gfManager"
+			],
+			[
+				"Get",
+				"getGeoQuery"
+			],
+			[
+				"get",
+				"getCenter"
+			],
+			[
+				"remove",
+				"removeCallback"
+			],
+			[
+				"ionic",
+				"ionicView"
+			],
+			[
+				"geof",
+				"geofireManager"
+			],
+			[
+				"ioni",
+				"ionicLoading"
+			],
+			[
+				"hg",
+				"hg_errors"
+			],
+			[
+				"angul",
+				"angular-amap-map"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"templ",
+				"templateUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ihweekly.sublime-project",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 264.0,
+		"last_filter": "jek",
+		"selected_items":
+		[
+			[
+				"jek",
+				"Jekyll: New draft"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp ="
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/roger/Documents/ihsing/weekly/ih-weekly",
+		"/home/roger/Documents/ihsing/weekly/ih-weekly/_drafts"
+	],
+	"file_history":
+	[
+		"/home/roger/Documents/ihsing/weekly/ih-weekly/_drafts/hello.md",
+		"/home/roger/Documents/ihsing/weekly/ih-weekly/ihweekly.sublime-project",
+		"/home/roger/Development/ionic/proj-ihapp/js/filters/show_only_admin.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/charge_point_detail_contrller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/fb_cloud_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/js/all.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/fb_auth_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/tests/controllers/charge_point_detail_spec.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/cp-detail.html",
+		"/home/roger/Development/ionic/proj-ihapp/tests/controllers/new_comment_spec.js",
+		"/home/roger/Development/ionic/proj-ihapp/tests/services_mocks.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/user-login.html",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/modal/login-modal.html",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/user_login_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/_services.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/modal/new-comment-modal.html",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/tabs.html",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/charge_point_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/filters/_filters.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/filters/order_object_by.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/loading/login.html",
+		"/home/roger/Development/ionic/proj-ihapp/js/app.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/loading/data.html",
+		"/home/roger/Development/ionic/proj-ihapp/www/css/style.css",
+		"/home/roger/Development/ionic/proj-ihapp/js/directives/autoheight_textarea.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/cp-new-comment.html",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/login_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/app_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/user_signup_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/README.md",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/new_comment_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/tests/controllers/user_signup_spec.js",
+		"/home/roger/Documents/Nutstore/scripts/proj_bak.py",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/amap_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/new_cp_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/geofire_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/map_controller.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/templates/popover/map-popover.html",
+		"/home/roger/Development/ionic/proj-ihapp/tests/services/geofire_spec.js",
+		"/home/roger/Development/ionic/proj-ihapp/package.json",
+		"/home/roger/Development/ionic/proj-ihapp/tests/karma.config.js",
+		"/home/roger/Development/ionic/proj-ihapp/www/index.html",
+		"/home/roger/Development/ionic/proj-ihapp/bower.json",
+		"/home/roger/Development/ionic/proj-ihapp/www/lib/ngCordova/dist/ng-cordova-mocks.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/controllers/_controllers.js",
+		"/home/roger/Development/ionic/proj-ihapp/tests/controllers/charge_point_spec.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/charge_points_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/.hgignore",
+		"/home/roger/Development/ionic/proj-ihapp/config.xml",
+		"/home/roger/Development/ionic/proj-ihapp/js/services.js",
+		"/home/roger/Development/ionic/proj-ihapp/js/services/fbutil_service.js",
+		"/home/roger/Development/ionic/proj-ihapp/.bowerrc",
+		"/home/roger/Development/django/ih-site/theme_inspinia/templates/index.html",
+		"/home/roger/Development/django/ih-site/solid/templates/base.html",
+		"/home/roger/Development/ionic/comp-qiniu-fileupload/www/lib/angular-qiniu-upload/src/.hgignore",
+		"/home/roger/Development/ionic/comp-amap-from-blank/bower.json",
+		"/home/roger/Desktop/Archive/config.ovpn",
+		"/home/roger/Downloads/ubuntu-ionic-installer-master/ubuntu_ionic_installer.sh",
+		"/home/roger/Desktop/Archive/client1.crt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/roger/Development/ionic/proj-ihapp/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chargepointdetailctrl",
+			"Firebase",
+			"getAuth",
+			"appctrl",
+			"console.",
+			"(",
+			"            "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ihweekly.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ihweekly.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

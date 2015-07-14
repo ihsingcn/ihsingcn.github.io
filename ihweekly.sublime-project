@@ -1,0 +1,18 @@
+{
+  "folders":
+  [
+      {
+          "follow_symlinks": true,
+          "path": "/home/roger/Documents/ihsing/weekly/ih-weekly/"
+      }
+  ],
+
+  "settings":
+  {
+      "Jekyll":
+      {
+          "posts_path": "/home/roger/Documents/ihsing/weekly/ih-weekly/_posts",
+          "drafts_path": "/home/roger/Documents/ihsing/weekly/ih-weekly/_drafts"
+      }
+  }
+}
