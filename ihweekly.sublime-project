@@ -3,7 +3,7 @@
   [
       {
           "follow_symlinks": true,
-          "path": "/home/roger/Documents/ihsing/weekly/ih-weekly/"
+          "path": "/home/roger/Documents/ihsing/weekly/ihsingcn.github.io/"
       }
   ],
 
@@ -11,8 +11,8 @@
   {
       "Jekyll":
       {
-          "posts_path": "/home/roger/Documents/ihsing/weekly/ih-weekly/_posts",
-          "drafts_path": "/home/roger/Documents/ihsing/weekly/ih-weekly/_drafts"
+          "posts_path": "/home/roger/Documents/ihsing/weekly/ihsingcn.github.io/_posts",
+          "drafts_path": "/home/roger/Documents/ihsing/weekly/ihsingcn.github.io/_drafts"
       }
   }
 }
